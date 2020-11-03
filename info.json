@@ -1,14 +1,13 @@
 {
-	"name": "bigger_slower_trains-M",
-	"version": "1.7.3",
+	"name": "bigger_faster_trains",
+	"version": "1.0.0",
 	"factorio_version": "1.0",
-	"title": "Bigger Slower Trains",
-	"author": "butterduck, Serialtasted, ZwerOxotnik",
-	"description": "Makes trains feel more 'bulky' - Increases the locomotive weight & power & health, decreases top speed, increases for the cargo wagon & the fluid wagon weight & capacity & health",
+	"title": "Bigger Faster Trains",
+	"author": "AlexandrVolkov",
+	"description": "Increases the locomotive power, top speed, increases for the cargo wagon & the fluid wagon capacity",
 	"homepage": "",
-	"source": "https://github.com/ZwerOxotnik/bigger_slower_trains-M",
+	"source": "https://github.com/AlexandrVolkov/bigger_slower_trains-M",
 	"dependencies": [
-		"base",
-		"? OS-Speed-Train >= 1.0.0"
+		"base"
 	]
 }
